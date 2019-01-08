@@ -1,6 +1,6 @@
 <?php return array (
-  'site_name' => 'OneIndex',
-  'password' => 'oneindex',
+  'site_name' => 'To Bella',
+  'password' => 'x110110',
   'style' => 'material',
   'onedrive_root' => '',
   'cache_type' => 'secache',
